@@ -1,7 +1,7 @@
 # Day Planner
 * Name: Honore Nelson
 * Github Repo: https://github.com/matisses-goldfish/DayPlanner
-* Deployed Application: 
+* Deployed Application: https://matisses-goldfish.github.io/DayPlanner/
 
 ## User story (reference):
 ```md
