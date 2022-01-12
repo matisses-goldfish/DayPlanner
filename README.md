@@ -26,7 +26,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-
+## Results: 
+!(applicationImage)[assets/Schedule-ss.png]
 ## GOAL
 The client gave clear specifications that they wanted a website that would allow users to stay orginized with work taks, via date, color cordination, and task description. Although I was provided with the basic HTML framework and the CSS, I needed to create 8-10 columns that would include the time, a text-input field, and a submit button that would store and update the users local data. 
 
