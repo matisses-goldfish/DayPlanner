@@ -52,10 +52,10 @@ The client gave clear specifications that they wanted a website that would allow
     * I ran into several road blocks doing this because of jquerys attribute clissification (ex: children, siblings, parent, etc.) 
 6. When the storage feature was done, I felt happy with my page results. 
 
-## Challlanges 
+## Challanges 
  I was able to complete this project within a short period because it was realitivly simple, however the local storage gave me a couple issues when attempting to debug my code. 
 
-## Sources:
+## Sources (listed in code as well):
 * https://www.codegrepper.com/code-examples/javascript/how+to+save+to+local+storage+jquery
 * https://stackoverflow.com/questions/12481439/jquery-this-keyword
 * Ryan Harris https://github.com/ryan-harris/day-planner/blob/master/script.js
