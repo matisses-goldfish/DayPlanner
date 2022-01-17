@@ -4,7 +4,7 @@
 
         //displays time in day, month, numerical day, year 
         // sourced: https://momentjs.com/
-        var today = moment().format('dddd MMMM do, YYYY');
+        var today = moment().format("dddd, MMMM Do YYYY");
         console.log(today)
         $("#currentDay").append(today);
 
