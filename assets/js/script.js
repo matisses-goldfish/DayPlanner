@@ -4,9 +4,9 @@
 
         //displays time in day, month, numerical day, year 
         // sourced: https://momentjs.com/
-        var today = moment().format("dddd, MMMM Do YYYY");
+        var today = moment();
         console.log(today)
-        $("#currentDay").append(today);
+        $("#currentDay").text(today.format("dddd MMMM Do, YYYY"));
 
         //take the time from moment, converts into hours, then, depending on the time of day,
         //applys them to the class to change their color
